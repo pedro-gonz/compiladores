@@ -1,8 +1,14 @@
-compiladores
-============
+# Compiladores-Tarea-2
 
-Compiladores FPUNA
+Arami Nuñez
+Pedro Gonzalez
 
-Autor: Julio Paciello
-Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
+Detalles a tener en cuenta
 
+No funciona con letras con acentos
+
+gcc anlex.c tablaSimbolos.c parser.c -o parser
+
+Y para ejecutar:
+
+./parser fuenteSinAcento.txt
