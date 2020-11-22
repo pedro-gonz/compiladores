@@ -1,7 +1,8 @@
 # Tarea 3 - Traduccion dirigida por sintaxis
 
-Arami Nuñez
-Pedro Gonzalez
+Integrantes
+-Arami Nuñez
+-Pedro Gonzalez
 
 Detalles a tener en cuenta
 
